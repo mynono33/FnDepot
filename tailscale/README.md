@@ -1,4 +1,4 @@
-# tailscale-fnos
+# tailscale for fnOS
 描述: 基于官方tailscale v1.94.2文件打包和设计UI适配飞牛fnOS上运行
 **UI功能:**
 - **概述:** 展示运行状态信息，实时流量图
