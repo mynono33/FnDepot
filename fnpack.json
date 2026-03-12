@@ -2,7 +2,7 @@
   "tailscale": {
     "display_name": "tailscale for fnOS",
     "platform": "x86",
-    "desc": "基于Tailscale v1.94.2打包，专门适配fnOS桌面和移动端图形界面适配\n支持自定义控制服务器（兼容 Headscale），子网路由、出口节点选择、实时流量监控、ping测试及多设备管理等全部功能",
+    "desc": "基于Tailscale v1.94.2打包，专门适配fnOS桌面和移动端图形界面\n支持自定义控制服务器（兼容 Headscale），子网路由、出口节点选择、实时流量监控、ping测试及多设备管理等全部功能",
     "labels": "工具,效率",
     "version": "1.1.0",
     "distributor": "mynono33",
