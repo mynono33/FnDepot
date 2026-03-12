@@ -1,11 +1,6 @@
 # tailscale-fnos
-1. 说明
-- 适配: Tailcale for fnOS UI
-- 版本: 1.94.2
-- 日期: 2026-03-11
-- 描述: 基于官方tailscale/tailscaled文件打包和设计UI适配飞牛fnOS上运行
-  
-2. UI功能:
+描述: 基于官方tailscale/tailscaled文件打包和设计UI适配飞牛fnOS上运行
+**UI功能:**
 - 概述：展示运行状态信息，实时流量图
 - 连接：支持apikey和web认证登陆，设备名、子路由和出口节点设置
 - 设备：
