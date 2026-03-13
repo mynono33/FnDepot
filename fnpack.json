@@ -5,7 +5,7 @@
     "desc": "基于Tailscale v1.94.2打包，专门适配fnOS桌面和移动端图形界面\n支持自定义控制服务器（兼容 Headscale），子网路由、出口节点选择、实时流量监控、ping测试及多设备管理等全部功能",
     "labels": "工具,效率",
     "version": "1.1.0",
-    "distributor": "mynono33",
+    "distributor": "nono",
     "distributor_url": "https://github.com/mynono33/FnDepot",
     "download_url": "https://github.com/mynono33/tailscale-fnos/releases/download/v1.1/tailscale-1.94.2-x86_v1.1.fpk",
     "isdocker": "false",
@@ -13,5 +13,20 @@
     "install_type": "系统空间",
     "size": "38.6",
     "changelog": ""
-  }
+  },
+    "fnos-kvmm": {
+    "display_name": "虚拟机M",
+    "platform": "x86",
+    "desc": "由于飞牛官方虚拟机管理页面暂不支持移动端访问，本应用专为移动端优化，让你随时随地通过手机管理虚拟机",
+    "labels": "工具,效率",
+    "version": "1.0.0",
+    "distributor": "nono",
+    "distributor_url": "https://github.com/mynono33/FnDepot",
+    "download_url": "https://github.com/mynono33/fnos-kvm/releases/download/v1.0.0/fnos_kvmm_v1.0.0-x86.fpk",
+    "isdocker": "false",
+    "bug_report_url": "https://github.com/mynono33/FnDepot/issues",
+    "install_type": "系统空间",
+    "size": "3.96",
+    "changelog": ""
+  },
 }
