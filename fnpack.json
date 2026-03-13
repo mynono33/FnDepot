@@ -14,7 +14,7 @@
     "size": "38.6",
     "changelog": ""
   },
-    "fnos-kvmm": {
+  "fnos-kvmm": {
     "display_name": "虚拟机M",
     "platform": "x86",
     "desc": "由于飞牛官方虚拟机管理页面暂不支持移动端访问，本应用专为移动端优化，让你随时随地通过手机管理虚拟机",
@@ -28,5 +28,5 @@
     "install_type": "系统空间",
     "size": "3.96",
     "changelog": ""
-  },
+  }
 }
